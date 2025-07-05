@@ -81,5 +81,4 @@ Hello from Flask on EC2 with Gunicorn and Nginx!
 -  Make sure Gunicorn is running: ps aux | grep gunicorn
 -  Ensure Nginx config has correct proxy_pass
 -  Restart Nginx after edits
--  Confirm your Flask file contains: app = Flask(__name__)
 -  Ensure you're in the correct directory when running Gunicorn
