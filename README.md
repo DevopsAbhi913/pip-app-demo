@@ -9,7 +9,7 @@
 ```bash
 sudo yum install python3-pip -y
 ```
-- Security Group with HTTP (port 80) allowed
+- Security Group with HTTP port 80 & python  port 3000 allowed
 
 ---
 
